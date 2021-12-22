@@ -26,9 +26,9 @@ Learning Rust: https://doc.rust-lang.org/book
 - [x] 5 Using Structs to Structure Related Data
 - [x] 5.1 Defining and Instantiating Struct
 - [x] 5.2 An Example Programing Using Structs
-- [ ] 5.3 Method Syntax
+- [x] 5.3 Method Syntax
 
-- [ ] 6 Enums and Pattern Matching
+- [x] 6 Enums and Pattern Matching
 - [ ] 6.1 Defining an Enum
 - [ ] 6.2 The match Control Flow Operator
 - [ ] 6.3 Concise Control Flow with if let
