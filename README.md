@@ -24,7 +24,7 @@ Learning Rust: https://doc.rust-lang.org/book
 - [x] 4.3 The Slice Type
 
 - [x] 5 Using Structs to Structure Related Data
-- [-] 5.1 Defining and Instantiating Struct
+- [ ] 5.1 Defining and Instantiating Struct
 - [ ] 5.2 An Example Programing Using Structs
 - [ ] 5.3 Method Syntax
 
