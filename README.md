@@ -86,10 +86,10 @@ Learning Rust: https://doc.rust-lang.org/book
 - [x] 15.2 Treating Smart Pointers Like Regular References with the Deref Trait
 - [x] 15.3 Running Code on Cleanup with the Drop Trait
 - [x] 15.4 Rc<T>, the Reference Counted Smart Pointer
-- [ ] 15.5 RefCell<T> and the interior Mutability Pattern
-- [ ] 15.6 Reference Cycles Can Leak Memory
+- [x] 15.5 RefCell<T> and the interior Mutability Pattern
+- [x] 15.6 Reference Cycles Can Leak Memory
 
-- [ ] 16 Fearless Concurrency
+- [x] 16 Fearless Concurrency
 - [ ] 16.1 Using Threads to Run Code Simultaneously
 - [ ] 16.2 Using Message Passing to Transfer Data Between Threads
 - [ ] 16.3 Shared-State Concurrency
