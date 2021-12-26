@@ -37,55 +37,55 @@ Learning Rust: https://doc.rust-lang.org/book
 - [x] 7.1 Packages and Crates
 - [x] 7.2 Defining Modules to Control Scope and Privacy
 - [x] 7.3 Paths for Referring to an Item in the Module Tree
-- [ ] 7.4 Bringing Paths into Scope with the use Keyword
-- [ ] 7.5 Separating Modules into Different Files
+- [x] 7.4 Bringing Paths into Scope with the use Keyword
+- [x] 7.5 Separating Modules into Different Files
 
-- [ ] 8 Common Collections
-- [ ] 8.1 Storing Lists of Values with Vectors
-- [ ] 8.2 Storing UTF-8 Encoded Text with Strings
-- [ ] 8.3 Storing Keys with Associated Values in Hash Maps
+- [x] 8 Common Collections
+- [x] 8.1 Storing Lists of Values with Vectors
+- [x] 8.2 Storing UTF-8 Encoded Text with Strings
+- [x] 8.3 Storing Keys with Associated Values in Hash Maps
 
-- [ ] 9 Error Handling
-- [ ] 9.1 Unrecoverable Errors with panic!
-- [ ] 9.2 Recoverable Errors with Result
-- [ ] 9.3 To panic! or Not To panic!
+- [x] 9 Error Handling
+- [x] 9.1 Unrecoverable Errors with panic!
+- [x] 9.2 Recoverable Errors with Result
+- [x] 9.3 To panic! or Not To panic!
 
-- [ ] 10 Generic Types, Traits, and Lifetimes
-- [ ] 10.1 Generic Data Types
-- [ ] 10.2 Traits: Defining Shared Behaviour
-- [ ] 10.3 Validating References with Lifetimes
+- [x] 10 Generic Types, Traits, and Lifetimes
+- [x] 10.1 Generic Data Types
+- [x] 10.2 Traits: Defining Shared Behaviour
+- [x] 10.3 Validating References with Lifetimes
 
-- [ ] 11 Writing Automated Tests
-- [ ] 11.1 How to Write Tests
-- [ ] 11.2 Controlling How Tests Are Run
-- [ ] 11.3 Test Organization
+- [x] 11 Writing Automated Tests
+- [x] 11.1 How to Write Tests
+- [x] 11.2 Controlling How Tests Are Run
+- [x] 11.3 Test Organization
 
-- [ ] 12 An I/O Project: Building a Command Line Program
-- [ ] 12.1 Accepting Command Line Arguments
-- [ ] 12.2 Reading a File
-- [ ] 12.3 Refactoring to Improve Modularity and Error Handling
-- [ ] 12.4 Developing the Library's Functionality with Test Driven Development
-- [ ] 12.5 Working with Environments Variables
-- [ ] 12.6 Writing Error Messages to Standard Error Instead of Standard Output
+- [x] 12 An I/O Project: Building a Command Line Program
+- [x] 12.1 Accepting Command Line Arguments
+- [x] 12.2 Reading a File
+- [x] 12.3 Refactoring to Improve Modularity and Error Handling
+- [x] 12.4 Developing the Library's Functionality with Test Driven Development
+- [x] 12.5 Working with Environments Variables
+- [x] 12.6 Writing Error Messages to Standard Error Instead of Standard Output
 
-- [ ] 13 Functional Language Features: Iterators and Closures
-- [ ] 13.1 Closures: Anonymous Functions that Can Capture Their Environment
-- [ ] 13.2 Processing a Series of Items with Iterators
-- [ ] 13.3 Improving Our I/O Project
-- [ ] 13.4 Comparing Performance: Loops vs. Iterators
+- [x] 13 Functional Language Features: Iterators and Closures
+- [x] 13.1 Closures: Anonymous Functions that Can Capture Their Environment
+- [x] 13.2 Processing a Series of Items with Iterators
+- [x] 13.3 Improving Our I/O Project
+- [x] 13.4 Comparing Performance: Loops vs. Iterators
 
-- [ ] 14 More about Cargo and Crates.io
-- [ ] 14.1 Customizing Builds with Release Profiles
-- [ ] 14.2 Publishing a Crate to Crates.io
-- [ ] 14.3 Cargo Workspaces
-- [ ] 14.4 Installing Binaries from Crates.io with cargo install
-- [ ] 14.5 Extending Cargo with Custom Commands
+- [x] 14 More about Cargo and Crates.io
+- [x] 14.1 Customizing Builds with Release Profiles
+- [x] 14.2 Publishing a Crate to Crates.io
+- [x] 14.3 Cargo Workspaces
+- [x] 14.4 Installing Binaries from Crates.io with cargo install
+- [x] 14.5 Extending Cargo with Custom Commands
 
-- [ ] 15 Smart Pointers
-- [ ] 15.1 Using Box<T> to Point to Data on the Heap
-- [ ] 15.2 Treating Smart Pointers Like Regular References with the Deref Trait
-- [ ] 15.3 Running Code on Cleanup with the Drop Trait
-- [ ] 15.4 Rc<T>, the Reference Counted Smart Pointer
+- [x] 15 Smart Pointers
+- [x] 15.1 Using Box<T> to Point to Data on the Heap
+- [x] 15.2 Treating Smart Pointers Like Regular References with the Deref Trait
+- [x] 15.3 Running Code on Cleanup with the Drop Trait
+- [x] 15.4 Rc<T>, the Reference Counted Smart Pointer
 - [ ] 15.5 RefCell<T> and the interior Mutability Pattern
 - [ ] 15.6 Reference Cycles Can Leak Memory
 
